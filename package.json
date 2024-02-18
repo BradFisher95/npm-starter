@@ -1,0 +1,11 @@
+{
+  "name": "npm-starter",
+  "version": "1.0.0",
+  "description": "A repository starting point for any npm based project",
+  "author": "Bradley Fisher",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no start specified\" && exit 1"
+  }
+}
